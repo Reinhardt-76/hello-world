@@ -1,0 +1,3 @@
+word="supercalifragilisticexpialidocious"
+x=word[word.index("rc"):word.index("t"):4]
+print(x)
